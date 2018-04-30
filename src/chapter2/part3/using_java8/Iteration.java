@@ -18,7 +18,9 @@ public class Iteration {
 		final List<String> friends = Arrays.asList("Brian", "Nate", "Neal", "Raju", "Sara", "Scott");
 		// forEach 내부에 익명함수를 인자로 사용하였다.
 		friends.forEach(new Consumer<String>() {
+			int count = 0;
 			public void accept(final String name) {
+				System.out.println(count++);
 				System.out.println(name);
 			}
 		});
