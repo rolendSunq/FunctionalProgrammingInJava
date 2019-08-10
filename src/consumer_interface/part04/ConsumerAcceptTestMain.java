@@ -5,9 +5,7 @@ import java.util.function.Consumer;
 public class ConsumerAcceptTestMain {
 	
 	public static void main(String[] args) {
-		Consumer<String> consumer = x -> {
-			printNames(x);
-		};
+		Consumer<String> consumer = x -> printNames(x);
 		
 		consumer.accept("Jeremy");
 		consumer.accept("Paul");
