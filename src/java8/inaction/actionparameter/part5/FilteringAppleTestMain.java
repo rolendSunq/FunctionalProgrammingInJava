@@ -17,6 +17,6 @@ public class FilteringAppleTestMain {
 		
 		List<Apple> resultList = FilteringApples.filter(appleList, (Apple apple) -> "red".equals(apple.getColor()));
 		
-		System.out.println(resultList	.toString());
+		System.out.println(resultList.toString());
 	}
 }
