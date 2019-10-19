@@ -1,8 +1,5 @@
 package chapter4.part15.using_exception;
 
-import java.io.IOException;
-import java.util.stream.Stream;
-
 public class HandleException {
 	public static void main(String[] args) {
 		/*

@@ -9,6 +9,7 @@ public class FunctionCombinationTestMain {
 		Function<Integer, Integer> g = x -> x * 2;
 		Function<Integer, Integer> h = f.andThen(g);
 		int result = h.apply(1);
+		System.out.println("result: " + result);
 	}
 
 }

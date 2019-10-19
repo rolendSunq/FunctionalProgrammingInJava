@@ -8,6 +8,7 @@ import java.util.stream.Collectors;
 public class Transform {
 	public static void main(String[] args) {
 		final List<String> friends = Arrays.asList("Brian", "Nate", "Neal", "Raju", "Sara", "Scott");
+		@SuppressWarnings("unused")
 		final List<String> uppercaseNames = new ArrayList<String>();
 		// 스트림의 map메서드는 입력 순서를 출력 순서로 매핑하거나 입력 순서를 다른 순서의 출력으로 변형한다.
 		// stream() 메서드는 JDK8의 모든 컬렉션에서 사용할 수 있으며 스트림 인스턴스에 대한 컬렉션을 래핑한다.

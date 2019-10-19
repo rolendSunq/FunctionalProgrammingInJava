@@ -21,6 +21,7 @@ public class PredicateFilterTestMain {
 				"Gianni Russo", 
 				"John Cazale", 
 				"Rudy Bond");
+		@SuppressWarnings("unused")
 		Movie godFarther = new Movie("Godfather", "Francis Ford Coppola", godFatherCast);
 		List<String> dogDayAfternoonCast = Arrays.asList("Penelope Allen", 
 				"Sully Boyar", 
@@ -37,6 +38,7 @@ public class PredicateFilterTestMain {
 				"James Broderick", 
 				"Charles Durning", 
 				"Carmine Foresta");
+		@SuppressWarnings("unused")
 		Movie dogDayAfternoon = new Movie("Dog Day Afternoon", "Sidney Lumet", dogDayAfternoonCast);
 		
 		
