@@ -1,0 +1,996 @@
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+<title>가루형 세척제 쇼핑검색 종합정보 :: 행복쇼핑의 시작 ! 다나와 (가격비교) - Danawa.com</title>
+<!-- <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=Edge" /><meta name="Title" content="가루형 세척제 쇼핑검색 종합정보 :: 행복쇼핑의 시작 ! 다나와 (가격비교) - Danawa.com" />
+<meta name="Description" content="가루형 세척제 최저가 상품 가격비교와 함께 사용기, 뉴스, 리뷰, 구매가이드, 중고시세 등의 쇼핑 추천정보를 풍부하게 제공합니다." />
+<meta name="Keywords" content="가루형 세척제, 상품 추천, 구매, 구입, 쇼핑 검색, 가격 비교, 중고, 좋은, 뉴스, 사용기, 리뷰, 블로그, 최저가" />
+<meta name="robots" content="nofollow" />
+<meta property="og:title" content="쇼핑검색 종합정보"/>
+<meta property="og:image" content="http://img.danawa.com/new/tour/img/logo/sns_danawa.jpg"/>
+<meta property="og:description" content="가루형 세척제"/>
+<meta content="width=1280" name="viewport" />
+<link rel="shortcut icon" href="//img.danawa.com/new/danawa_main/v1/img/danawa_favicon.ico" />
+<link rel="stylesheet" type="text/css" href="//static.danawa.com/new/recss/common.css?v=2008061111"/>
+<link rel="stylesheet" type="text/css" href="//static.danawa.com/new/recss/navigation.css?v=2008061111"/>
+<link rel="stylesheet" type="text/css" href="//static.danawa.com/new/recss/wish_pop.css?v=2008061111"/>
+<link rel="stylesheet" type="text/css" href="//static.danawa.com/new/recss/dictionary.css?v=2006290911" />
+<link rel="stylesheet" type="text/css" href="//static.danawa.com/new/recss/search_renew.css?v=2006290911" />
+<link rel="stylesheet" type="text/css" href="//static.danawa.com/new/recss/shopping_clip.css?v=2006290911" />
+<link rel="stylesheet" type="text/css" href="//static.danawa.com/new/recss/dpg_stamp.css?v=2006290911" />
+<script type="text/javascript" src="//static.danawa.com/globaljs/external/jquery/core/last/jquery-last.min.js?v=2007081800"></script>
+<script type="text/javascript" charset="euc-kr" src="/globaljs/com/danawa/common/gnb_ui.js?v=2007081800"></script>
+<script type="text/javascript" charset="euc-kr" src="/globaljs/com/danawa/common/jquery.addProductToWishList.js?v=2007081800"></script>
+<script type="text/javascript" src="//static.danawa.com/globaljs/external/jquery/plugin/jquery.cookie/jquery.cookie.js"></script>
+<script type="text/javascript" charset="utf-8" src="//static.danawa.com/globaljs/com/danawa/common/searchAutocompleteLayer_UTF8.js?v=2007081800"></script>
+</head>
+<body>
+<div id="skip_navigation">
+    <a href="#danawa_header"><span>메인 메뉴로 바로가기</span></a>
+    <a href="#danawa_content"><span>본문으로 바로가기</span></a>
+</div>
+
+<div id="danawa_wrap" class="danawa_product_list aside_show" >
+	<div id="danawa_header_fixed">
+		<div class="inner_wrap">
+			<h1 class="sub_h1"><a href="http://www.danawa.com" ><img src="//img.danawa.com/new/searchNew/img/re/fixed_logo.png" alt="다나와" /></a></h1>
+
+			<form id="fixedSearchre" name="fixedSearchre" method="get" action="dsearch.php">
+			<div class="search_area">
+				<fieldset>
+					<legend>검색</legend>
+					<div class="search_area_content" id="fixedSearchArea">
+						<input type="text" value="" name="query" class="search_words_insert fixed_search" id="FixedAKCSearch" title="검색어 입력">
+
+						<button class="btn_search_submit"><span>검색</span></button>
+					</div>
+				</fieldset>
+				
+				<script type="text/javascript">
+				jQuery(document).ready(function($){ $(".fixed_search").searchFixedAutoComplete(); });
+				</script>
+			</div>
+			</form>
+
+			<div class="fix_research_area" id="fix_research_area">
+				<!-- 활성화시 on 클래스 추가 -->
+				<a href="#" onclick="return false;" id="fix_btn_srch_opt" class="btn_srch_opt">상세검색<span class="ico_arr"></span></a>
+				<!-- detail_layer -->
+				<div class="detail_layer" id="fix_detail_layer" style="display:none;">
+					<div class="detail_fix">
+						<div class="header">
+							<p class="title"><strong>상세검색</strong></p>
+							<a href="#" onclick="return false;" class="com_gnb btn_service_close" id="fix_btn_service_close">닫기</a>
+						</div>
+						<div class="mid">
+							<div class="d_inpt" id="fix_detail_input"></div>
+							<div class="ip_w">
+								<label for="search_include">결과 내 검색</label>
+								<div class="ip_op">
+									<input type="text" id="fix_search_include" placeholder="추가 키워드" value="" class="srh_input">
+								</div>
+							</div>
+							<div class="ip_w">
+								<label for="search_exclude">키워드 제외</label>
+								<div class="ip_op">
+									<input type="text" id="fix_search_exclude" placeholder="Ex) 중고, 해외" value="" class="srh_input">
+								</div>
+							</div>
+							<p class="de_dsc">다수의 키워드를 입력하실 때는 <span class="pnt">쉼표(,)</span>로 구분해서 입력하세요.</p>
+						</div>
+						<div class="btm">
+							<div class="btn_cnt">
+								<a href="#" onclick="return false;" id="fix_btn_de_srch" class="btn_de_srch">검색</a>
+								<a href="#" onclick="return false;" id="fix_btn_de_cls" class="btn_de_cls">닫기</a>
+							</div>
+							<a href="#" onclick="return false;" id="fix_btn_refresh" class="btn_refresh"><span class="ico_ref"></span>초기화</a>
+						</div>
+					</div>
+				</div>
+				<!--// detail_layer -->
+			</div>
+
+			<dl class="suggest">
+				<dt class="screen_out">연관검색어</dt>
+				<dd>
+				</dd>
+			</dl>
+
+			<div class="keyword_wrap">
+				<div class="keyword_list view_keyword">
+					<ol class="hotKeyword_roll">
+													<li style="height:18px;">
+                         		<small class="status"><span class="rank_keep">순위유지</span></small>
+                            	<a title="노트북" href="/dsearch.php?query=%EB%85%B8%ED%8A%B8%EB%B6%81" target="_self" onclick="_trkEventLog('통합검색_검색바_연관키워드');">노트북</a>
+                            </li>
+													<li style="height:18px;">
+                         		<small class="status rank_up_color"><span class="rank_up">순위변경</span>2</small>
+                            	<a title="제습기" href="/dsearch.php?query=%EC%A0%9C%EC%8A%B5%EA%B8%B0" target="_self" onclick="_trkEventLog('통합검색_검색바_연관키워드');">제습기</a>
+                            </li>
+													<li style="height:18px;">
+                         		<small class="status rank_down_color"><span class="rank_down rank_up_color">순위변경</span>1</small>
+                            	<a title="모니터" href="/dsearch.php?query=%EB%AA%A8%EB%8B%88%ED%84%B0" target="_self" onclick="_trkEventLog('통합검색_검색바_연관키워드');">모니터</a>
+                            </li>
+													<li style="height:18px;">
+                         		<small class="status"><span class="rank_keep">순위유지</span></small>
+                            	<a title="냉장고" href="/dsearch.php?query=%EB%83%89%EC%9E%A5%EA%B3%A0" target="_self" onclick="_trkEventLog('통합검색_검색바_연관키워드');">냉장고</a>
+                            </li>
+													<li style="height:18px;">
+                         		<small class="status rank_up_color"><span class="rank_up">순위변경</span>1</small>
+                            	<a title="ssd" href="/dsearch.php?query=ssd" target="_self" onclick="_trkEventLog('통합검색_검색바_연관키워드');">ssd</a>
+                            </li>
+													<li style="height:18px;">
+                         		<small class="status rank_down_color"><span class="rank_down rank_up_color">순위변경</span>3</small>
+                            	<a title="닌텐도 스위치" href="/dsearch.php?query=%EB%8B%8C%ED%85%90%EB%8F%84+%EC%8A%A4%EC%9C%84%EC%B9%98" target="_self" onclick="_trkEventLog('통합검색_검색바_연관키워드');">닌텐도 스위치</a>
+                            </li>
+													<li style="height:18px;">
+                         		<small class="status rank_up_color"><span class="rank_up rank_down_color">순위변경</span>4</small>
+                            	<a title="자전거" href="/dsearch.php?query=%EC%9E%90%EC%A0%84%EA%B1%B0" target="_self" onclick="_trkEventLog('통합검색_검색바_연관키워드');">자전거</a>
+                            </li>
+													<li style="height:18px;">
+                         		<small class="status rank_up_color"><span class="rank_up rank_up_color">순위변경</span>2</small>
+                            	<a title="세탁기" href="/dsearch.php?query=%EC%84%B8%ED%83%81%EA%B8%B0" target="_self" onclick="_trkEventLog('통합검색_검색바_연관키워드');">세탁기</a>
+                            </li>
+													<li style="height:18px;">
+                         		<small class="status"><span class="rank_keep">순위유지</span></small>
+                            	<a title="에어팟 프로" href="/dsearch.php?query=%EC%97%90%EC%96%B4%ED%8C%9F+%ED%94%84%EB%A1%9C" target="_self" onclick="_trkEventLog('통합검색_검색바_연관키워드');">에어팟 프로</a>
+                            </li>
+													<li style="height:18px;">
+                         		<small class="status rank_up_color"><span class="rank_up">순위변경</span>1</small>
+                            	<a title="에어컨" href="/dsearch.php?query=%EC%97%90%EC%96%B4%EC%BB%A8" target="_self" onclick="_trkEventLog('통합검색_검색바_연관키워드');">에어컨</a>
+                            </li>
+											</ol>
+				</div>
+
+                <div class="search_tool fixed_layer">
+                    <dl class="tool_set hot_keyword">
+                        <dt class="widget_title">다나와 인기 키워드</dt>
+                        <dd>
+                            <div class="keyword_sel">
+                                <div class="now_category">
+                                    <ul class="cate_list">
+                                        <li>전체</li>
+                                    </ul>
+                                </div>
+								<span class="cate_nav">
+									<span class="text"><a href="http://www.danawa.com/Keyword/keyword_ranking.html" target="_self" onclick="_trkEventLog('통합검색_검색바_인기키워드_페이지이동');">더보기</a></span>
+								</span>
+
+                            </div>
+                            <div class="ranking_wrap">
+                                <div class="keyword_list">
+                                    <div class="list_title">전체</div>
+                                    <ol>
+                                    		                                    	<li>
+	                                            <small class="status"><span class="rank_keep">순위유지</span></small>
+	                                            <a title="노트북" href="/dsearch.php?query=%EB%85%B8%ED%8A%B8%EB%B6%81" target="_self" onclick="_trkEventLog('통합검색_검색바_인기키워드_키워드');">노트북</a>
+	                                        </li>
+                                    		                                    	<li>
+	                                            <small class="status"><span class="rank_up">순위변경</span>2</small>
+	                                            <a title="제습기" href="/dsearch.php?query=%EC%A0%9C%EC%8A%B5%EA%B8%B0" target="_self" onclick="_trkEventLog('통합검색_검색바_인기키워드_키워드');">제습기</a>
+	                                        </li>
+                                    		                                    	<li>
+	                                            <small class="status"><span class="rank_down rank_up_color">순위변경</span>1</small>
+	                                            <a title="모니터" href="/dsearch.php?query=%EB%AA%A8%EB%8B%88%ED%84%B0" target="_self" onclick="_trkEventLog('통합검색_검색바_인기키워드_키워드');">모니터</a>
+	                                        </li>
+                                    		                                    	<li>
+	                                            <small class="status"><span class="rank_keep">순위유지</span></small>
+	                                            <a title="냉장고" href="/dsearch.php?query=%EB%83%89%EC%9E%A5%EA%B3%A0" target="_self" onclick="_trkEventLog('통합검색_검색바_인기키워드_키워드');">냉장고</a>
+	                                        </li>
+                                    		                                    	<li>
+	                                            <small class="status"><span class="rank_up">순위변경</span>1</small>
+	                                            <a title="ssd" href="/dsearch.php?query=ssd" target="_self" onclick="_trkEventLog('통합검색_검색바_인기키워드_키워드');">ssd</a>
+	                                        </li>
+                                    		                                    	<li>
+	                                            <small class="status"><span class="rank_down rank_up_color">순위변경</span>3</small>
+	                                            <a title="닌텐도 스위치" href="/dsearch.php?query=%EB%8B%8C%ED%85%90%EB%8F%84+%EC%8A%A4%EC%9C%84%EC%B9%98" target="_self" onclick="_trkEventLog('통합검색_검색바_인기키워드_키워드');">닌텐도 스위치</a>
+	                                        </li>
+                                    		                                    	<li>
+	                                            <small class="status"><span class="rank_up rank_down_color">순위변경</span>4</small>
+	                                            <a title="자전거" href="/dsearch.php?query=%EC%9E%90%EC%A0%84%EA%B1%B0" target="_self" onclick="_trkEventLog('통합검색_검색바_인기키워드_키워드');">자전거</a>
+	                                        </li>
+                                    		                                    	<li>
+	                                            <small class="status"><span class="rank_up rank_up_color">순위변경</span>2</small>
+	                                            <a title="세탁기" href="/dsearch.php?query=%EC%84%B8%ED%83%81%EA%B8%B0" target="_self" onclick="_trkEventLog('통합검색_검색바_인기키워드_키워드');">세탁기</a>
+	                                        </li>
+                                    		                                    	<li>
+	                                            <small class="status"><span class="rank_keep">순위유지</span></small>
+	                                            <a title="에어팟 프로" href="/dsearch.php?query=%EC%97%90%EC%96%B4%ED%8C%9F+%ED%94%84%EB%A1%9C" target="_self" onclick="_trkEventLog('통합검색_검색바_인기키워드_키워드');">에어팟 프로</a>
+	                                        </li>
+                                    		                                    	<li>
+	                                            <small class="status"><span class="rank_up">순위변경</span>1</small>
+	                                            <a title="에어컨" href="/dsearch.php?query=%EC%97%90%EC%96%B4%EC%BB%A8" target="_self" onclick="_trkEventLog('통합검색_검색바_인기키워드_키워드');">에어컨</a>
+	                                        </li>
+                                    	                                    </ol>
+                                </div>
+                            </div>
+                        </dd>
+                    </dl>
+                </div>
+			</div>
+		</div>
+	</div>
+
+    <div id="danawa_header">
+        <div class="danawa_gnb">
+        	<div class="danawa_gnb_center">
+        		<div class="top_list_ty1 top_service_list">
+	<ul>
+		<li class="mobile_service_app"><span class="btn_apss_wrap"><a href="#mobile_service_layer" target="_self" class="icon_gnb_mobile " onclick="return false;">다나와 앱</a></span>
+			<div id ="mobile_service_layer" class="mobile_service_layer">
+			<input type="hidden" id="now_mobileApp" value="priceCompare">
+				<h3 class="screen_out">다나와 앱 서비스 목록</h3>
+				<div class="gnb_apps_list">
+					<a href="#mobile_service_layer" onClick="getLayerInfo(this,'priceCompare'); return false;" class="gnb_apps_link first_gnb_apps active_apps">가격비교</a><!-- 선택된 링크 class=active_apps -->
+					<a href="#mobile_service_layer" onClick="getLayerInfo(this,'dmall'); return false;" class="gnb_apps_link">장터</a>
+					<a href="#mobile_service_layer" onClick="getLayerInfo(this,'estimate'); return false;" class="gnb_apps_link">PC견적</a>
+					<a href="#mobile_service_layer" onClick="getLayerInfo(this,'event'); return false;" class="gnb_apps_link">이벤트</a>
+					<a href="#mobile_service_layer" onClick="getLayerInfo(this,'autoPush'); return false;" class="gnb_apps_link">자동차</a>
+				</div>
+				<div class="gnb_apps_conts">
+					<div class="gnb_apps_imgs" id="layerInfo_priceCompare">
+						<span class="gnb_appimg_wrap"><img src="http://img.danawa.com/new/danawaApp/img/app1.gif" alt="다나와 APP" /></span>
+						<span class="gnb_apps_txt">No.1 가격비교사이트 다나와 앱으로 <br />간편하게 최저가를 확인하세요.</span>
+					</div>
+
+					<div class="gnb_apps_imgs" id="layerInfo_dmall" style='display:none'>
+						<span class="gnb_appimg_wrap"><img src="http://img.danawa.com/new/danawaApp/img/app2.gif" alt="다나와 장터" /></span>
+						<span class="gnb_apps_txt">언제 어디서나 빠르고 간편하게 상품을 팔거나 살 수 있는<br />스마트한 모바일 장터입니다.</span>
+					</div>
+
+					<div class="gnb_apps_imgs" id="layerInfo_estimate" style='display:none'>
+						<span class="gnb_appimg_wrap"><img src="http://img.danawa.com/new/danawaApp/img/app3.gif" alt="PC견적" /></span>
+						<span class="gnb_apps_txt">PC조립을 위한 최고의 어플<br />실시간 최저가로 손쉽게 조립PC를 구성해보세요.</span>
+					</div>
+
+					<div class="gnb_apps_imgs" id="layerInfo_event" style='display:none'>
+						<span class="gnb_appimg_wrap"><img src="http://img.danawa.com/new/danawaApp/img/app8.gif" alt="이벤트" /></span>
+						<span class="gnb_apps_txt">항시 100개 이상의 이벤트를 언제 어디서든<br />자유롭고 편리하게 응모 할 수 있습니다.</span>
+					</div>
+
+					<div class="gnb_apps_imgs" id="layerInfo_autoPush" style='display:none'>
+						<span class="gnb_appimg_wrap"><img src="http://img.danawa.com/new/danawaApp/img/app6.gif" alt="자동차" /></span>
+						<span class="gnb_apps_txt">대한민국 최대 규모의 정보를 자랑하는 신차견적, 견적평가,<br />중고차 매물 검색, 자동차 뉴스, 커뮤니티 등 자동차 관련<br />소식을 받아보실 수 있습니다.</span>
+					</div>
+
+					<div class="gnb_apps_bottom">
+						<div class="sms_get_area">
+							<h4 class="title_gnb_apps">SMS 문자로 받기</h4>
+							<div class="sms_number_area">
+								<input type="text" class="input_size_01 input_color_blue" id="smsNumber_first" value="" title="휴대폰 앞자리 입력" /><span class="input_bar">-</span><input type="text" value="" class="input_size_01" id="smsNumber_middle" title="휴대폰 중간 네자리 입력" /><span class="input_bar">-</span><input type="text" value="" class="input_size_01" id="smsNumber_last" title="휴대폰 끝자리 입력" />
+							</div>
+
+							<div class="sms_send_btn">
+								<button class="btn_sms_send">보내기</button>
+							</div>
+							<p class="txt_sms_01"></p>
+						</div>
+
+						<div class="qr_code_area">
+							<h4 class="title_gnb_apps">QR코드</h4>
+							<div class="qr_image_area">
+								<img id="qrCode_image" src="" alt="빈 이미지">
+							</div>
+						</div>
+					</div>
+					<a href="#mobile_service_layer" class="btn_apps_close" onclick="return false;"> 닫기</a>
+				</div>
+			</div>
+		</li>
+	</ul>
+</div>
+<div class="top_list_ty1 top_service_login">
+	<ul>
+		<li><a href="http://auto.danawa.com" target="_blank">자동차</a></li>
+		<li><a href="http://shop.danawa.com/shopmain/?logger_kw=dnw_top_pcmain" target="_blank">조립PC</a></li>
+		<li><a href="http://shop.danawa.com/virtualestimate/?controller=estimateMain&methods=index&marketPlaceSeq=16&logger_kw=dnw_top_esti" target="_blank">PC견적</a></li>
+		<li><a href="http://shop.danawa.com/shopmain/?controller=main&methods=usedMarket&logger_kw=dnw_top_used" target="_blank">중고장터</a></li>
+				<li><a href="http://prod.danawa.com/hotdeal/" target="_self">핫딜</a></li>
+				<li><a href="http://tour.danawa.com/" target="_self">여행</a></li>
+				<li><a href="http://plan.danawa.com/" target="_self">쇼핑기획전</a></li>
+				<li><a href="http://dpg.danawa.com/bbs" target="_self">DPG</a></li>
+				<li><a href="http://event.danawa.com/" target="_self">이벤트</a><span class="top_link_dv">/</span><a href="http://event.danawa.com/experience/" target="_self">체험단</a></li>
+				<li class="more_service">
+			<a href="#more_service_layer2" class="more_sevice_click" onclick="return false;">더보기 <span class="screen_out">열기</span></a>
+			<div id="more_service_layer2" style="display:none">
+				<a href="http://www.danawa.com/info/map.html" class="more_service_all">서비스 전체보기</a>
+					<div class="more_service_list">
+						<ul class="mserv_ul">
+							<li class="msev_li"><a href="http://shop.danawa.com/main/?logger_kw=dnw_topmore_shopmain" target="_blank">샵다나와</a></li>
+							<li class="msev_li"><a href="http://brand.danawa.com/" target="_self">브랜드로그</a></li>
+							<li class="msev_li"><a href="http://dmall.danawa.com/v3/?logger_kw=dnw_topmore_dmall" target="_blank">장터</a></li>
+							<li class="msev_li"><a href="http://news.danawa.com/tv?page=index" target="_self">동영상</a></li>
+							<li class="msev_li"><a href="http://shop.danawa.com/main/?controller=used&methods=index&logger_kw=dnw_topmore_used_purch" target="_blank">중고매입</a></li>
+							<li class="msev_li"><a href="http://nanum.danawa.com/" target="_blank">사회공헌</a></li>
+							<li class="msev_li"><a href="http://dasale.danawa.com/" target="_self">다나와특가몰</a></li>
+							<li class="msev_li"><a href="http://www.danawa.com/mobileApp/intro.php" target="_self">모바일 앱</a></li>
+							<li class="msev_li"><a href="http://shop.danawa.com/offcenter/?controller=main&methods=index&logger_kw=dnw_topmore_as" target="_blank">다나와AS</a></li>
+							<li class="msev_li"><a href="http://pc26.danawa.com/bbs/" target="_blank">PC26</a></li>
+						</ul>
+					</div>
+			</div>
+		</li>
+	</ul>
+</div>        	</div>
+        </div>
+
+        <div class="danawa_top_search">
+        					<div class="danawa_search_center">
+					<div class="top_logo_area">
+						<h1 class="sub_h1"><a href="http://www.danawa.com"><img src="//img.danawa.com/new/danawa_main/v1/img/danawa_logo_sub.png" alt="다나와 가격비교 CI" /></a></h1>
+													<h2><a href="http://search.danawa.com/dsearch.php?k1=%EA%B0%80%EB%A3%A8%ED%98%95+%EC%84%B8%EC%B2%99%EC%A0%9C&module=goods&act=dispMain"><img src="//img.danawa.com/new/newmain/img/h2_dsearch.jpg" alt="통합검색" /></a></h2>
+											</div>
+
+					<div class="search_middle_area">
+
+						<div class="search_area">
+														<form id="searchre" name="searchre" method="get" accept-charset="UTF-8">
+														<fieldset>
+								<legend>검색</legend>
+										<div class="search_area_content">
+		<input type="text" class="search_words_insert" name="query" id="AKCSearch" autocomplete="off" value="가루형 세척제" title="검색어 입력" />
+		<input id="tab" name="tab" type="hidden" value="" />
+		<input id="list" name="list" type="hidden" value="" />
+		<input id="cate_c1" name="cate_c1" type="hidden" value="" />
+		<input id="cate_c2" name="cate_c2" type="hidden" value="" />
+		<input id="cate_c3" name="cate_c3" type="hidden" value="" />
+		<input id="cate_c4" name="cate_c4" type="hidden" value="" />
+		<input id="cate_c5" name="cate_c5" type="hidden" value="" />
+		<input id="minPrice" name="minPrice" type="hidden" value="" />
+		<input id="maxPrice" name="maxPrice" type="hidden" value="" />
+		<input id="sort" name="sort" type="hidden" value="" />
+		<input id="partnerId" name="partnerId" type="hidden" value="" />
+		<input id="totalCount" type="hidden" value="" />
+		<input id="beforeKeyword" name="beforeKeyword" type="hidden" value="가루형 세척제" />
+		<input id="volumeType" name="volumeType" type="hidden" value="" />
+		<input id="isOptionSearch" type="hidden" value="" />
+		<input id="includeSearchKeyword" type="hidden" value="" />
+		<input id="excludeSearchKeyword" type="hidden" value="" />
+		<button class="btn_search_submit"><span>검색</span></button>
+	</div>							</fieldset>
+							</form>
+							<div class="research_area" id="research_area">
+	<a href="#" onclick="return false;" class="btn_srch_opt" id="btn_srch_opt">상세검색<span class="ico_arr"></span></a>
+	<div class="detail_layer" id="detail_layer" style="display:none;">
+		<div class="detail_fix">
+			<div class="header">
+				<p class="title"><strong>상세검색</strong></p>
+				<a href="#" onclick="return false;" class="com_gnb btn_service_close" id="btn_service_close">닫기</a>
+				<!-- 길어질때 scroll 추가 -->
+			</div>
+			<div class="mid">
+				<div class="d_inpt" id="detail_input">가루형 세척제</div>
+				<div class="ip_w">
+					<label for="search_include">결과 내 검색</label>
+					<div class="ip_op">
+						<input type="text" id="search_include" placeholder="추가 키워드" class="srh_input" value="">
+					</div>
+				</div>
+				<div class="ip_w">
+					<label for="search_exclude">키워드 제외</label>
+					<div class="ip_op">
+						<input type="text" id="search_exclude" placeholder="Ex) 중고, 해외" class="srh_input" value="">
+					</div>
+				</div>
+				<p class="de_dsc">다수의 키워드를 입력하실 때는 <span class="pnt">쉼표(,)</span>로 구분해서 입력하세요.</p>
+			</div>
+			<div class="btm">
+				<div class="btn_cnt">
+					<a href="#" onclick="return false;" class="btn_de_srch" id="btn_de_srch">검색</a>
+					<a href="#" onclick="return false;" class="btn_de_cls" id="btn_de_cls">닫기</a>
+				</div>
+				<a href="#" onclick="return false;" class="btn_refresh" id="btn_refresh"><span class="ico_ref"></span>초기화</a>
+			</div>
+		</div>
+	</div>
+</div>						</div>
+					</div>
+
+					<div class="my_service2">
+						
+<h2 class="screen_out">다나와 내 서비스 목록</h2>
+<div class="my_service_list3">
+	<ul class="my_serv_ul">
+		<li class="recently_seeing_goods">
+			<a href="#" onclick="return false;">
+				<span class="my_serv_tit">최근본상품</span>
+							</a>
+		</li>
+		<li class="interest_goods_service">
+			<a href="http://www.danawa.com/myPage/wishList.php">
+				<span class="my_serv_tit">관심상품</span>
+							</a>
+		</li>
+		<li class="my_page_service">
+			<a href="https://auth.danawa.com/login?url=http%3A%2F%2Fsearch.danawa.com%2Fdsearch.php%3Fk1%3D%25EA%25B0%2580%25EB%25A3%25A8%25ED%2598%2595%2B%25EC%2584%25B8%25EC%25B2%2599%25EC%25A0%259C%26module%3Dgoods%26act%3DdispMain">
+				<span class="my_serv_tit">로그인</span>
+
+			</a>
+		</li>
+	</ul>
+</div>
+
+<input type="hidden" id="browserCode" value="61b6ccef-0d64-46d8-8887-59fac3a4874e"/>
+<input type="hidden" id="memberSeq" value=""/>
+
+<div class="my_service_layer renew" style="display: none;">
+	<div class="ico_tarw_com"></div>
+	<!-- msl_left -->
+	<div class="msl_left" id="mslLeft">
+
+	</div>
+	<!--// msl_left -->
+
+	<!-- msl_right -->
+	<div class="msl_right">
+		<div class="mr_sale" id="mslRight">
+		</div>
+		<div class="msl_close_wrap">
+			<a href="#" class="msl_close">닫기</a>
+		</div>
+
+	</div>
+	<!--// msl_right -->
+</div>
+
+<div class="my_login_slayer" style="display:none">
+	<div class="ico_tarw_com"></div>
+	<ul class="my_login_ul">
+		<li class="mlog_li"><a href="https://auth.danawa.com/login?url=http%3A%2F%2Fsearch.danawa.com%2Fdsearch.php%3Fk1%3D%25EA%25B0%2580%25EB%25A3%25A8%25ED%2598%2595%2B%25EC%2584%25B8%25EC%25B2%2599%25EC%25A0%259C%26module%3Dgoods%26act%3DdispMain" class="mlog_a">로그인</a></li><li class="mlog_li"><a href="https://auth.danawa.com/joinStep1" class="mlog_a">회원가입</a></li><li class="mlog_li"><a href="https://auth.danawa.com/login?url=http%3A%2F%2Fsearch.danawa.com%2Fdsearch.php%3Fk1%3D%25EA%25B0%2580%25EB%25A3%25A8%25ED%2598%2595%2B%25EC%2584%25B8%25EC%25B2%2599%25EC%25A0%259C%26module%3Dgoods%26act%3DdispMain" class="mlog_a">마이페이지</a></li><li class="mlog_li"><a href="https://auth.danawa.com/login?url=http%3A%2F%2Fsearch.danawa.com%2Fdsearch.php%3Fk1%3D%25EA%25B0%2580%25EB%25A3%25A8%25ED%2598%2595%2B%25EC%2584%25B8%25EC%25B2%2599%25EC%25A0%259C%26module%3Dgoods%26act%3DdispMain" class="mlog_a">쪽지</a></li><li class="mlog_li"><a href="http://adcenter.danawa.com" class="mlog_a">광고센터</a></li><li class="mlog_li"><a href="http://help.danawa.com" class="mlog_a">고객센터</a></li>	</ul>
+</div>					</div>
+
+
+
+				
+				<script type="text/javascript">
+				jQuery(document).ready(function($){ new $("FORM#searchre").danawaSearchAutoComplete({"gnbCode":7}); });
+				</script>
+			</div>
+    	</div>
+
+    	<div class="danawa_searchtab_wrap">
+    		<ul class="danawa_searchtab">
+	<li class="view_all_catew">
+		<a class="view_all_category" href="#sectionExplodeLayer" onmousedown="_trkEventLog('통합검색_GNB_카테고리펼쳐보기')">
+			<strong class="btn_text">카테고리 펼쳐보기</strong>
+		</a>
+	</li>
+	<li class="searchtab" id="mainTab"><a href="#" target="_self">통합검색</a></li>
+	<li class="searchtab" id="goodsTab"><a href="#" target="_self">상품</a></li>
+	<li class="searchtab" id="tourTab"><a href="#" target="_self">여행</a></li>
+	<li class="searchtab" id="marketTab"><a href="#" target="_self">장터</a></li>
+	<li class="searchtab" id="shoppingTab"><a href="#" target="_self">쇼핑가이드</a></li>
+	<li class="searchtab" id="newsTab"><a href="#" target="_self">뉴스</a></li>
+	<li class="searchtab" id="communityTab"><a href="#" target="_self">커뮤니티</a></li>
+	<li class="searchtab" id="reviewTab"><a href="#" target="_self">리뷰</a></li>
+	<li class="searchtab" id="videoTab"><a href="#" target="_self">동영상</a></li>
+	<li class="searchtab last" id="dargTab"><a href="#" target="_self">다나와Q&amp;A</a></li>
+</ul>
+
+<div class="sns_wrap share" id="rgt_share">
+	<a href="#" onclick="return false;"  id="share" class="btn_sns_share"><span class="ico">공유하기</span>공유</a>
+	<!-- sns_share, url_share 활성화 시에 show 클래스 추가 -->
+	<!-- sns_share -->
+	<div class="sns_share" id="shr_layer" >
+		<input id="clip_tmp" type="text" style="position:absolute;top:-2000px;" />
+		<div class="s_header">
+			<h4 class="s_title">공유하기</h4>
+			<a href="#" onclick="return false;" class="btn_close" id="shareCloseBtn"><span class="bg_cls">레이어 닫기</span></a>
+		</div>
+		<div id="shr_layer_cover" style="width: 268px;height: 260px;position: absolute;z-index: 1;background: rgba(255,255,255,.5);display:none;">
+    		<div style="top: 60px;text-align:center;position:relative;">
+				<img src="//img.danawa.com/totalMain/ajax-loader.gif" alt="로딩중">
+			</div>
+		</div> 
+		<div class="s_content">
+			<ul class="sns_lst">
+				<li><a href="#" onclick="return false;" >
+					<span class="i_sns kakaotalk"></span>
+					<span class="stxt">카카오톡</span>
+				</a></li>
+				<li><a href="#" onclick="return false;" >
+					<span class="i_sns line"></span>
+					<span class="stxt">라인</span>
+				</a></li>
+				<li><a href="#" onclick="return false;" >
+					<span class="i_sns facebook"></span>
+					<span class="stxt">페이스북</span>
+				</a></li>
+				<li><a href="#" onclick="return false;" >
+					<span class="i_sns twitter"></span>
+					<span class="stxt">트위터</span>
+				</a></li>
+				<li><a href="#" onclick="return false;" >
+					<span class="i_sns kstory"></span>
+					<span class="stxt">카카오스토리</span>
+				</a></li>
+				<li><a href="#" onclick="return false;" >
+					<span class="i_sns band"></span>
+					<span class="stxt">밴드</span>
+				</a></li>
+			</ul>
+			<div class="item_url clr">
+				<a href="#" onclick="return false;"  id="sns_input_url" class="input_url">http://search.danawa.com?query=</a>
+				<a href="#" onclick="return false;"  id="copyUrl" class="copy_url">복사</a>
+			</div>
+		</div>
+	</div>
+	<!--// sns_share -->
+	<!-- url_share -->
+	<div class="url_share" id="url_share" style="display:none">
+		<span class="acc acc_l"></span>
+		<p class="url_txt">URL이 복사되었습니다. <br>원하는 곳에 붙여넣기(Ctrl+V)하세요.</p>
+		<a href="#" onclick="return false;"  class="btn_close" id="urlShareCloseBtn"><span class="bg_cls">레이어 닫기</span></a>
+	</div>
+	<!--// url_share -->
+</div>    	</div>
+    </div>
+
+    <div id="danawa_container">
+<div id="termDicView_pop"></div>
+<div id="relationProduct_pop" style="display:none;"></div>
+<div class="content_wrapper">
+	<div class="top_down_position" style="display: none;">
+		<div class="top_down_area">
+			<div class="top_down_fixed">
+				<a class="btn_layer_up" href="#"><span>컨텐츠 상단으로 이동</span></a>
+				<a class="btn_layer_down" href="#"><span>컨텐츠 하단으로 이동</span></a>
+			</div>
+		</div>
+	</div>
+ 	<div id="danawa_content">
+		<div class="category_wrap">
+			<div id="sectionExplodeLayer" class="category_hover_layer2" style="display:none;">
+				<h2 class="screen_out">카테고리 펼쳐보기 목록</h2>
+				<a href="#prodArea" class="btn_category_close">카테고리 닫기</a>
+				<div class="main_lnb">
+					<ul class="nav_list">
+
+									<li class="" group-code="10" section-name="가전/TV">
+										<a href="#" class="nav_menu02" onclick="return false;">가전/TV<span class="category_arw">카테고리로 이동 </span></a>
+									</li>
+								
+									<li class="" group-code="11" section-name="컴퓨터/노트북/조립PC">
+										<a href="#" class="nav_menu03" onclick="return false;">컴퓨터/노트북/조립PC<span class="category_arw">카테고리로 이동 </span></a>
+									</li>
+								
+									<li class="" group-code="12" section-name="태블릿/모바일/디카">
+										<a href="#" class="nav_menu04" onclick="return false;">태블릿/모바일/디카<span class="category_arw">카테고리로 이동 </span></a>
+									</li>
+								
+									<li class="menu_top_line" group-code="13" section-name="아웃도어/스포츠/골프">
+										<a href="#" class="nav_menu05" onclick="return false;">아웃도어/스포츠/골프<span class="category_arw">카테고리로 이동 </span></a>
+									</li>
+								
+									<li class="" group-code="14" section-name="자동차/용품/공구">
+										<a href="#" class="nav_menu06" onclick="return false;">자동차/용품/공구<span class="category_arw">카테고리로 이동 </span></a>
+									</li>
+								
+									<li class="" group-code="15" section-name="가구/조명">
+										<a href="#" class="nav_menu07" onclick="return false;">가구/조명<span class="category_arw">카테고리로 이동 </span></a>
+									</li>
+								
+									<li class="menu_top_line" group-code="16" section-name="식품/유아/완구">
+										<a href="#" class="nav_menu08" onclick="return false;">식품/유아/완구<span class="category_arw">카테고리로 이동 </span></a>
+									</li>
+								
+									<li class="" group-code="17" section-name="생활/주방/건강">
+										<a href="#" class="nav_menu09" onclick="return false;">생활/주방/건강<span class="category_arw">카테고리로 이동 </span></a>
+									</li>
+								
+									<li class="" group-code="18" section-name="패션/잡화/화장품">
+										<a href="#" class="nav_menu10" onclick="return false;">패션/잡화/화장품<span class="category_arw">카테고리로 이동 </span></a>
+									</li>
+								
+									<li class="menu_top_line" group-code="19" section-name="사무/취미/게임">
+										<a href="#" class="nav_menu11" onclick="return false;">사무/취미/게임<span class="category_arw">카테고리로 이동 </span></a>
+									</li>
+								
+									<li class="" group-code="20" section-name="여행/항공/호텔">
+										<a href="#" class="nav_menu12" onclick="return false;">여행/항공/호텔<span class="category_arw">카테고리로 이동 </span></a>
+									</li>
+													</ul>
+				</div>
+				<div class="category_scroll_area"></div>
+			</div>
+		</div>
+
+				<div id="keywordArea" name="keywordArea"></div>
+		
+<!-- 공백 제거 시작// -->
+<div class="suggest_wrap" style="display: none;" id="removeEmptyResultArea">
+	<dl class="suggest_link">
+		<dt>띄어쓰기 제거하여 검색된 결과입니다.</dt>
+		<dd></dd>
+	</dl>
+</div>
+<!-- 공백 제거 끝// -->
+		<div id="tourArea"></div>
+		<div class="product_list_cover" style="width: 998px; height: 590px; x-index:200; display: block; z-index: 100;">
+			<div>
+				<img src="//img.danawa.com/totalMain/ajax-loader.gif" alt="로딩중">
+				<p class="searching_text">검색중입니다. <br>잠시만 기다려 주세요.</p>
+			</div>
+		</div>
+		<div id="powerShoppingArea" style="display: none;"></div>
+		<div id="powerClickListArea" style="display: none;"></div>
+			    <!-- 로딩레이어 시작 -->
+        <div id="lodingArea" class="loding_area ">
+       		<div id="carInfoArea"></div>				        	<!-- 상품영역 시작 //-->
+				            <div id="prodArea">
+				           		<div id="newSearchOptionArea"><div style="min-height: 376px;"></div></div>
+								<div id="productListArea" style="display:none;"></div>
+							</div>
+							<div id="powerLinkArea"></div>
+		        <div id="mainTop" style="display: block; overflow: hidden;">
+	<div id="LAY_OvertureADs" style="margin: 0px; width: 100%;">
+			<script language="javascript" type="text/javascript" src="http://www.danawa.com/NBP/powerLinkNew.js.php?mode=newSearch&keyword=%EA%B0%80%EB%A3%A8%ED%98%95+%EC%84%B8%EC%B2%99%EC%A0%9C&count=7&time=159754552880599900"></script>
+		</div>
+</div><div id="shoppingPlanArea"></div><div id="marketArea"></div><div id="shoppingGuideArea"></div><div id="newsArea"></div><div id="reviewArea"></div><div id="videoArea"></div><div id="communityArea"></div><div id="qnaArea"></div>
+			<div id="mainContentsArea"></div>
+
+			<div class="goodslist_survey" id="surveyArea" style="display: none;">
+    <div class="survey_con_box">
+        <div class="survey_top_wrap">
+            <span class="question"><span class="point">‘가루형 세척제’</span>&nbsp;검색 결과 어떠셨나요?</span>
+            <div class="btn_wrap">
+                <a href="" class="btn_hate" id="hateButton" data-selectseq="2"><i class="icons_lis"></i><span class="blind">싫어요</span></a>
+                <a href="" class="btn_good" id="goodButton" data-selectseq="1"><i class="icons_lis"></i><span class="blind">좋아요</span></a>
+            </div>
+        </div>
+        <div class="survey_con_wrap" id="surveyContentWrapArea"></div>
+    </div>
+    <span class="answer" style="display: none;">감사합니다. 더 노력하는 다나와가 되겠습니다.</span>
+</div><div id="mainBottom" style="display: block">
+    <fieldset>
+    <legend>통합검색 입력 폼 - 하단</legend>
+        <div id="reSearch">
+            <div id="BarFotN">
+                <div class="search_area">
+                    <fieldset>
+                    <legend>검색</legend>
+                        <div class="search_area_content">
+                             <input type="text" id="q1" value="가루형 세척제" class="search_words_insert" title="검색어 입력" onkeypress="if(window.event.keyCode==13) doSearchBottom();">
+                             <button class="btn_search_submit" onclick="doSearchBottom();"><span>검색</span></button>
+                        </div>
+                     </fieldset>
+                 </div>
+           </div>
+        </div>
+    </fieldset>
+</div>
+			<div id="bottomPowerClickListArea" style="display: none;"></div>
+			<div id="recommandProductArea" name="recommandProductArea"></div>
+
+		</div>
+		<!-- // 로딩레이어 끝. lodingArea -->
+
+			</div>
+</div>
+
+<div id="rightCurationArea">
+	<div class="aside_media">
+		<div style="margin-left: 45%;margin-top:35px">
+			<img src="//img.danawa.com/totalMain/ajax-loader.gif" alt="로딩중" />
+		</div>
+	</div>
+</div>
+
+</div>
+
+<div id="productImageLayerArea"></div>
+
+<div class="comparison_box" id="comparisonBox">
+	<div class="comp_head">
+		<h4 class="s_tit">
+			<span>상품비교</span>
+			<em class="num_c" id="comparisonTotalCount">0</em>
+		</h4>
+		<div class="head_opt">
+			<button type="button" class="btn_toggle on" id="comparisonToggleBtn">
+				<span class="ico i_toggle">상품비교 접기</span>
+			</button>
+		</div>
+	</div>
+	<div class="comp_body" style="display:block;" id="comparisonProductList">
+		<div class="comp_prod">
+			<ul class="roll_list" style="width:924px"><!-- 132px * li 개수 -->
+			</ul>
+		</div>
+		<div class="comp_opt">
+			<div class="opt_select">
+				<button type="button" class="btn_select_del" id="comparisonSelectAllBtn"><i class="ico i_all_chk"></i>전체 선택</button>
+				<button type="button" class="btn_select_del" id="comparisonDeleteBtn"><i class="ico i_bin"></i>선택 삭제</button>
+				<button type="button" class="btn_dark" id="comparisonProductBtn">상품 비교</button>
+				<button type="button" class="btn_basic" id="saveSelectWishBtn">관심상품 담기</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+var sProductListDomain = "prod.danawa.com";
+var oGlobalSetting = {
+	sKeyword:'가루형 세척제',
+	sSubKeyword:'',
+	sPreviousKeyword:'',
+	sTabType:'main',
+	sVolumeType:'allvs',
+	nPage:1,
+	nPriceRangeMinPrice:0,
+	nPriceRangeMaxPrice:0,
+	nCateC1:0,
+	nCateC2:0,
+	nCateC3:0,
+	nCateC4:0,
+	nCateC5:0,
+	sMakerBrand:'',
+	sShop:'',
+	sMakerOption:'',
+	sBrandOption:'',
+	sAttributeOption:'',
+	sPartnerId:'',
+	sListType:'list',
+	sOrder:'',
+	nLimit:'40',
+	isAddDelivery:'N',
+	isAdult:0,
+	originalQuery:'가루형 세척제',
+	searchType:'',
+	nBoardSeq:0,
+	sBoost:'true',
+	bConversion:'',
+	hasUsingConversion:'',
+	hasSuggestKeyword:'',
+	sCheckedInfo: '',
+	hasExternalSearch: '',
+	nSiteCode : 0,
+	sResultSearch : '',
+	sIncludeKeyword : '',
+	sExcludeKeyword : '',
+	isExclude : '',
+	sStartDate : ''
+};
+var aProductImageInfoList = new Array(); //상품리스트 이미지 정보
+var sGNBDisplayKeyword = '';
+var sTempParameter = '';
+var sMallBasicLayerHtml = '';
+var bInitNoResultLogger = false; //검색결과없음 로그 호출 여부
+var oProductAjaxManagerCommand = {
+		initCall : 'Y',
+		onlyProductCallYN : 'N',
+		totalCallYN : 'N',
+		clickCategoryYN : 'N'
+};
+</script>
+
+<script type="text/javascript" src="js/common.js?t=2007291501"></script>
+<script type="text/javascript" src="js/kakao-1.20.1.min.js?v=2007291501"></script>
+<script type="text/javascript" src="js/logClick.js?t=2007291501"></script>
+<script type="text/javascript" src="http://www.danawa.com/GenFiles/JS/COMMUNITY/SLANDER/SlanderArray_ALL.js"></script> <!-- 금지단어 -->
+<script type="text/javascript" src="js/searchNewUi.js?t=2007291501"></script>
+<script type="text/javascript" src="js/dpg/underscore-min.js"></script> <!-- Underscore.js -->
+<script type="text/javascript" src="js/dpg/termDic/termDicNewView.js?v=2007291501"></script>
+<script type="text/javascript" src="js/jquery.searchFixedAutoComplete.js?v=2007291501"></script>
+<script type="text/javascript" src="js/category_navigation.js?v=2007291501"></script>
+<script type="text/javascript" src="//static.danawa.com/globaljs/com/danawa/common/category/explodeLNBMenu.js?v=2007291501"></script>
+<script type="text/javascript" src="//static.danawa.com/globaljs/external/swfobject/2.2/swfobject.min.js"></script>
+<script type="text/javascript" src="//static.danawa.com/globaljs/external/jquery/plugin/jquery.jcarousel/0.3.1/jquery.jcarousel.min.js"></script>
+<script type="text/javascript" src="//static.danawa.com/globaljs/com/danawa/util/common_lnb.js?v=2007291501"></script>
+<script type="text/javascript" src="//static.danawa.com/globaljs/external/jquery/plugin/zeroClipboard/1.0.7/ZeroClipboard.js"></script>
+<script type="text/javascript" src="//static.danawa.com/globaljs/external/jquery/plugin/jquery.mousewheel/3.1.12/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="//static.danawa.com/globaljs/external/modernizr/2.8.3/modernizr.custom.touch-events.js"></script>
+<script type="text/javascript" src="//static.danawa.com/globaljs/external/jquery/plugin/jquery.placeholder/jquery.placeholder.min.js"></script>
+<script type="text/javascript" src="//static.danawa.com/globaljs/external/jquery/plugin/jquery.tmpl/1.4.2/jquery.tmpl.js"></script>
+<script type="text/javascript" src="//static.danawa.com/globaljs/com/danawa/common/simpleSurvey.js?v=2007291501"></script>
+<script type="text/javascript" src="//static.danawa.com/globaljs/static/logger_trackEvent.js"></script>
+<script type="text/javascript" src="//static.danawa.com/globaljs/external/jquery/plugin/jquery.cookie/jquery.cookie.js"></script>
+<script type="text/javascript" src="//static.danawa.com/globaljs/external/jquery/plugin/jquery.lazyload/1.9.0/jquery.lazyload.min.js"></script>
+<script type="text/javascript" src="//static.danawa.com/globaljs/static/loggingApplication/danawaLoggingApplicationClient-1.0.0-min.js?ver=1.0.1.23"></script>
+<script type="text/javascript" src="//adimg3.search.naver.net/adpost/impression_neo_show_ads_min.js"></script>
+<!-- <script type="text/javascript" src="/globaljs/com/danawa/common/category/explodeLNBMenu.js?v</script> -->
+<script type="text/javascript">
+	_TRK_IK = '가루형 세척제';	//검색 키워드 집계 임플리멘테이션
+	_TRK_PI = 'SRP';
+</script>
+<script type="text/javascript" language='javascript'>
+	DANAWA_LOGGING_APPLICATION_CLIENT.execute('keyword: P12001');</script>
+	<div id="danawa_footer">
+		<div class="footer_top">
+			<div class="footer_top_content">
+				<span class="title_notice_squre">공지</span>
+				<span class="footer_text_type1"><a href="http://help.danawa.com/noticeDetail.php?listSeq=4252768" target="_blank">[채용공고] 신입/경력 사원 모집</a></span>
+				<dl class="footer_danawa_policy">
+					<dt class="screen_out">다나와 정책 및 약관</dt>
+					<dd class="first"><a href="http://www.danawa.com/corp/main.html" target="_blank">회사소개</a></dd>
+					<dd><a href="http://www.danawa.com/info/provision.html" target="_blank">이용약관</a></dd>
+					<dd class="fbold"><a href="http://www.danawa.com/info/helprule_private.html" target="_blank">개인정보처리방침</a></dd>
+					<dd><a href="http://www.danawa.com/info/map.html">사이트맵</a></dd>
+					<dd><a href="http://www.danawacomputer.co.kr/" target="_blank">다나와컴퓨터</a></dd>
+					<dd><a href="http://adcenter.danawa.com" target="_blank">광고센터</a></dd>
+					<dd><a href="http://help.danawa.com/bizCenter/index.php?depth1=1" target="_blank">협력사문의</a></dd>
+				</dl>
+			</div>
+		</div>
+
+		
+		<!-- footer_bottom_area -->
+	<div class="footer_bottom_area">
+		<div class="footer_danawa_address add_csbox">
+			<address>주소 (우) 07995 서울특별시 양천구 목동동로 233-1, 501 (목동, 드림타워)</address>
+			<span class="ceo">대표이사: 손윤환, 안징현</span>
+			<!-- footer_info1 -->
+			<div class="footer_info1">
+			<span class="first_info">사업자번호: 117-81-40065</span><span>통신판매업: 제2004-서울양천-00918호</span><span>부가통신사업: 제003081호</span><a href="http://www.ftc.go.kr/bizCommPop.do?wrkr_no=1178140065" class="btn_box_type" target="_blank">사업자정보확인</a>
+			</div>
+			<!--// footer_info1 -->
+			<!-- footer_info2 -->
+			<dl class="footer_info2">
+				<dt>콘텐츠산업진흥법</dt>
+				<dd>콘텐츠산업 진흥법에 의한 콘텐츠 보호</dd>
+				<dd class="btn_footer_info">
+					<!-- footer_over_layer -->
+					<div class="footer_over_layer" style="display:none">
+						<div class="footer_over_margin">
+							<strong>콘텐츠산업진흥법에 의한 표시</strong>
+							<dl class="contents_law first">
+								<dt>콘텐츠의 명칭</dt>
+								<dd>상품콘텐츠(정보) 및 기사, 이벤트 정보</dd>
+							</dl>
+							<dl class="contents_law">
+								<dt>콘텐츠의 제작 및 표시 연월일</dt>
+								<dd>개별 표기된 제작일 또는 갱신일</dd>
+							</dl>
+							<dl class="contents_law">
+								<dt>콘텐츠의 제작자</dt>
+								<dd>(주)다나와
+								<br>전화: 1688 - 2470 / 팩스: 1688-2451
+								<br>서울특별시 양천구 목1동 923-14 드림타워 501호</dd>
+							</dl>
+							<dl class="contents_law last">
+								<dt>콘텐츠의 이용조건</dt>
+								<dd>이용약관 및 서비스 안내 참조
+								<br>(동의 없이 무단복제 및 가공을 금함)<a href="http://www.danawa.com/info/agreement.html" class="btn_box_type btn_policy_view">이용약관 보기</a></dd>
+							</dl>
+
+							<!-- footer_notice -->
+							<div class="footer_notice">
+								<p>㈜다나와 홈페이지 내의 모든 콘텐츠는 『콘텐츠산업 진흥법』에 따라
+								<br> 제작일 또는 그 갱신일로부터 5년간 보호 됩니다.</p>
+							</div>
+							<!--// txt_clause -->
+							<!-- footer_layer_close -->
+							<div class="footer_layer_close">
+								<a href="#" class="btn_footer_close" onclick="return false;">닫기</a>
+							</div>
+							<!--// footer_layer_close -->
+						</div>
+					</div>
+					<!--// footer_over_layer -->
+					<a href="" id="content_see_more" class="btn_box_type" onclick="return false;">자세히보기</a>
+					<a href="http://help.danawa.com/bizCenter/index.php?depth1=11" class="btn_box_type" target="_blank">콘텐츠이용안내</a>
+				</dd>
+			</dl>
+			<!--// footer_info2 -->
+			<!-- 161103 footer_info3 -->
+			<div class="footer_info3">
+				<dl class="footer_cs_wrap">
+					<dt>다나와 고객센터</dt>
+					<dd>
+						<div class="footer_cs_box clear">
+							<ul>
+								<li class="home"><a href="http://help.danawa.com" target="_blank">고객센터 홈</a></li>
+								<li class="rip"><a href="#" onclick="window.open('http://help.danawa.com/onlineInquiry.php','_blank', 'width=800, height=900, toolbar=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no'); return false;" target="_blank">신고/문의/제안</a></li>
+								<li class="help"><a href="http://help.danawa.com/serviceHelpList.php" target="_blank">서비스도움말</a></li>
+							</ul>
+						</div>
+					</dd>
+					<dd class="txt clear"><span>전화: 1688-2470</span><span>팩스: 1688-2451</span></dd>
+					<dd class="txt clear"><span>이메일: cs@danawa.com</span></dd>
+					<dd class="txt btn_footer_info">
+						<a href="#" class="btn_box_type" onclick="return false;" id="denyEmailOpenBtn" title="메일수신거부새창열림">이메일수집거부</a>
+						<div class="footer_over_denyemail" id="denyEmailNoticeArea">
+							<div class="denyemail_detail">
+								<strong class="subj">이메일 주소 무단 수신수집 거부</strong>
+								<p class="contents">영리목적 (주)다나와에서는 본 웹사이트에 게시된 이메일 주소가<br>
+								전자우편 수집 프로그램이나 그 밖의 기술적 장치를 이용하여<br>
+								무단으로 수집되는 것을 거부하며, 이를 위반시<br>
+								<strong class="point">정보통신망법에 의해 형사처벌됨</strong>을 유념하시기 바랍니다.</p>
+								<span class="date">[게시일 2004년 1월 16일]</span>
+								<div class="denymain_close">
+									<a class="btn_close" id="denyEmailCloseBtn" onclick="return false;" href="#"><em class="screen_out">닫기</em></a>
+								</div>
+							</div>
+						</div>
+						<a href="http://help.danawa.com/ars_suggestion.php" class="btn_box_type" target="_blank">ARS문의안내</a>
+					</dd>
+				</dl>
+			</div>
+			<!--// 161103 footer_info3 -->
+			<!-- footer_info4 -->
+			<div class="footer_info4">
+				<p class="policy_explain">(주)다나와는 상품판매와 직접적인 관련이 없으며, 모든 상거래의 책임은 구매자와 판매자에게 있습니다.
+				<br> 이에 대해 (주)다나와는 일체의 책임을 지지 않습니다.
+				<br> 본사에 등록된 모든 광고와 저작권 및 법적책임은 자료제공사 (또는 글쓴이)에게 있으므로 본사는 광고에 대한 책임을 지지 않습니다.</p>
+			</div>
+			<div class="footer_info4">
+				<!-- icon_footer_list -->
+				<!--161103 cs클래스 추가 -->
+				<div class="icon_footer_list cs">
+					<a target="_blank" href="http://www.kolsa.or.kr" class="icon_at1 icon_kolsa">KOLSA 한국온라인 쇼핑협회</a>
+				</div>
+				<!--// icon_footer_list -->
+			</div>
+			<div class="confirm_layer" id="contentsConfirmLayer" style="display:none;">
+				<div class="layer_header">
+					<strong class="blind">우수 콘텐츠 서비스 레이어</strong>
+					<a href="#contentsConfirmLayer" id="contentsConfirmCloseButton" class="btn_close">레이어 닫기</a>
+				</div>
+				<div class="layer_content">
+					<img src="//img.danawa.com/img/footer_goodcontents.jpg" alt="콘텐츠제공서비스 품질인증서">
+					<div class="blind">
+						<p>인증번호: 2018-08-0031
+						홈페이지: http://www.danawa.com
+						서비스명: 다나와
+						기업/기관명: 주식회사 다나와
+						대표자: 손윤환,안징현
+						유효기간: 2018년 08월 30일 ~ 2020년 08월 29일
+						위 기관은 콘텐츠산업진흥법 제 22조 규정에 의하여 우수한 콘텐츠 서비스를 고객에게 제공함으로써 콘텐츠 산업의 국가경쟁력 향상에
+						기여하였기에 콘텐츠 제공서비스 품질인증기관 운영 규칙 제 25조 제1항의 규정에 따라 콘텐츠제공서비스 품질인증 사업자로 인증합니다.
+						2018년 08월 30일
+						한국데이터진흥원장
+						</p>
+					</div>
+				</div>
+			</div>
+			<!--// footer_info4 -->
+			<div class="footer_copyright">
+			Copyright &copy; <strong>danawa</strong> Co., Ltd. All Rights
+			Reserved.
+			</div>
+		</div>
+	</div>
+	<!--// footer_bottom_area -->
+	</div>
+</div>
+<script src="//static.danawa.com/globaljs/static/logger_trackEvent.js"></script>
+<script src="//static.danawa.com/globaljs/static/logger_Insight_WebAnalytics.js"></script>
+<script src="//static.danawa.com/globaljs/static/wcslog.js?v1607061545="></script>
+<script type="text/javascript">
+if(!wcs_add) var wcs_add = {};
+wcs_add["wa"] = "s_3b3fb74948b1";
+if(!_nasa) var _nasa = {};
+wcs.inflow("danawa.com");
+wcs_do(_nasa);
+</script>
+
+
+<script>
+var _AdwebCounterValue = _AdwebCounterValue || [];
+_AdwebCounterValue['Account'] = _AdwebCounterValue['Account'] || 'danawacom';
+_AdwebCounterValue['Category'] = _AdwebCounterValue['Category'] || 'page';
+_AdwebCounterValue['Namming'] = _AdwebCounterValue['Namming'] || '';
+_AdwebCounterValue['Price'] = _AdwebCounterValue['Price'] || '';
+_AdwebCounterValue['GoodsNo'] = _AdwebCounterValue['GoodsNo'] || '';
+_AdwebCounterValue['Version'] = _AdwebCounterValue['Version'] || '2.0';
+
+if(typeof _AdwebCounterDomain == 'undefined') {
+	var _AdwebCounterDomain = document.location.protocol+'//tracking.adweb.co.kr/tracking/log4php_danawa.php';
+}
+</script>
+<script src="//static.danawa.com/globaljs/static/adweb_counter_danawa.min.js?version=20200410"></script>
+<!-- view as mobile script -->
+<script type="text/javascript" src="http://static.danawa.com/globaljs/com/danawa/common/setUpMobileView.js"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-37762359-14"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-37762359-14', {'sample_rate':5});
+</script>
+
+</body>
+</html>
