@@ -6,7 +6,6 @@ import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
 import java8.inaction.stream.Dish;
-import java8.inaction.stream.Dish.Type;
 
 public class Reducing {
 

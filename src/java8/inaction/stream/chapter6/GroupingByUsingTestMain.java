@@ -2,11 +2,13 @@ package java8.inaction.stream.chapter6;
 
 import java.util.Arrays;
 import java.util.Comparator;
+import java.util.EnumMap;
 import java.util.IntSummaryStatistics;
 import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 import java.util.Set;
+import java.util.concurrent.ConcurrentMap;
 import java.util.stream.Collectors;
 
 public class GroupingByUsingTestMain {
@@ -60,6 +62,15 @@ public class GroupingByUsingTestMain {
 		// 각 블로그 게시물 유형에 대한 게시물의 제목으로 분류하기
 		Map<BlogPostType, String> postsPerType = posts.stream().collect(Collectors.groupingBy(BlogPost::getType, Collectors.mapping(BlogPost::getTitle, Collectors.joining(", ", "Post titles: [", "]"))));
 		System.out.println("postsPerType--->>>" + postsPerType);
+		
+		// 반환 맵 유형 수정
+		EnumMap<BlogPostType, List<BlogPost>> enumPostsPerType = posts.stream().collect(Collectors.groupingBy(BlogPost::getType, () -> new EnumMap<>(BlogPostType.class), Collectors.toList()));
+		System.out.println("enumPostsPerType--->>>" + enumPostsPerType);
+		
+		// Collector 별 동시 그룹화
+		ConcurrentMap<BlogPostType, List<BlogPost>> concurrentPostsPerType = posts.parallelStream().collect(Collectors.groupingByConcurrent(BlogPost::getType));
+		System.out.println("concurrentPostsPerType--->>>" + concurrentPostsPerType);
+		
 	}
 	
 }
