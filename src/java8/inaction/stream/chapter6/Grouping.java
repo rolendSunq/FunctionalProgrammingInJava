@@ -1,6 +1,5 @@
  package java8.inaction.stream.chapter6;
 
-import java.nio.MappedByteBuffer;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.HashSet;

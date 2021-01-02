@@ -1,6 +1,5 @@
 package java8.inaction.stream;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.OptionalInt;
@@ -101,16 +100,9 @@ public class PrimitiveStreamSpecialization {
 		IntStream.rangeClosed(1, 100).boxed().flatMap(a -> IntStream.rangeClosed(a, 100)
 				.mapToObj(b -> new double[] {a, b, Math.sqrt(a * a + b * b)})
 				.filter(t -> t[2] % 1 == 0));
+		
+		pythagoreanTriple2.limit(20).forEach(d -> System.out.println(d[0] + ", " + d[1] + ", " + d[2]));
+		
 	}
 	
-	private static List<List<Integer>> getRandomList() {
-		List<List<Integer>> randNumberList = new ArrayList<>();
-		for (int i = 0; i < 10; i++) {
-			List<Integer> innerPythaList = new ArrayList<>();
-			innerPythaList.add((int)(Math.random() * 10) +1);
-			innerPythaList.add((int)(Math.random() * 10) +1);
-			randNumberList.add(innerPythaList);
-		}
-		return randNumberList;
-	}
 }
