@@ -34,7 +34,7 @@ public class Apple {
 	public void setFlag(Boolean flag) {
 		this.flag = flag;
 	}
-
+	
 	@Override
 	public String toString() {
 		return new StringBuffer().append("Apple [color=").append(color)
