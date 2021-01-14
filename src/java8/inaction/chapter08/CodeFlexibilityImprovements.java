@@ -1,12 +1,16 @@
 package java8.inaction.chapter08;
 
-import java.util.function.Supplier;
-import java.util.logging.Level;
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import java8.inaction.lambda.BufferedReaderProcessor;
+
 public class CodeFlexibilityImprovements {
+	@SuppressWarnings("unused")
 	private static Logger logger = LoggerFactory.getLogger(CodeFlexibilityImprovements.class);
 	/**
 	 * 동작 파리미터화 Behaviour Paramenterization
@@ -22,7 +26,7 @@ public class CodeFlexibilityImprovements {
 	 * 이 두 인터페이스는 자주 사용하는 패턴으로 람다 표현식 리팩토링을 살펴본다.
 	 */
 	
-	public static void main(String[] args) {
+	public static void main(String[] args) throws IOException {
 		// 조건부 연기 실행
 		// 코드 내부에 제어 흐름문이 복잡하게 얽힌 코드
 		// 보안 검사, 로깅 관련
@@ -42,6 +46,12 @@ public class CodeFlexibilityImprovements {
 		// public void log(Level level, Supplier<String> msgSupplier)
 		//logger.log(Level.FINER, () -> "Problem: " + generateDiagnostic());
 		
+		
+		
+		String oneLine = processFile((BufferedReader b) -> b.readLine());
+		String twoLine = processFile((BufferedReader b) -> b.readLine() + b.readLine());
+		System.out.println("oneLine--->>> " + oneLine);
+		System.out.println("twoLine--->>> " + twoLine);
 	}
 	/*
 	public void log(Level level, Supplier<String> msgSupplier) {
@@ -53,4 +63,12 @@ public class CodeFlexibilityImprovements {
 	// 객체의 일부 메서드를 호출하는 상황(메세지 로깅)이라면 내부적으로 객체 상태를 확인후 
 	// 다음 메서드를 호출(람다, 메서드 레퍼런스를 인수로 사용)하도록 구현한다.
 	// 이로서 가독성, 캡슐화가 강화된다.
+	
+	
+	public static String processFile(BufferedReaderProcessor p) throws IOException {
+		try (BufferedReader br = new BufferedReader(new FileReader("D:\\\\myGit\\\\FunctionalProgrammingInJava\\\\src\\\\java8\\\\inaction\\\\stream\\\\data.txt"))) {
+			// 인수로 전달된 BufferedReaderProcess를 실행
+			return p.process(br);
+		}
+	}
 }
