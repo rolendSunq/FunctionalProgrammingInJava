@@ -30,14 +30,17 @@ public class StreamTestMain {
 		// generate
 		Stream.generate(Math::random).limit(5).forEach(System.out::println);
 		
+		@SuppressWarnings("unused")
 		IntStream twos = IntStream.generate(new IntSupplier() {
 			public int getAsInt() {
 				return 2;
 			}
 		});
 		
+		@SuppressWarnings("unused")
 		IntStream ones = IntStream.generate(() -> 1);
 		
+		@SuppressWarnings("unused")
 		IntStream twos2 = IntStream.generate(new IntSupplier() {
 			public int getAsInt() {
 				return 2;

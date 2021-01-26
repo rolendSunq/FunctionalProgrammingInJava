@@ -13,10 +13,12 @@ public class CustomSpliteratorTestMain {
 			" ch  la  dritta via era  smarrita ";
 		System.out.println("Found " + countWordsIteratively(SENTENCE) + " words");
 		// 함수형으로 단어 개수 계산 메서드 재구현하기
+		@SuppressWarnings("unused")
 		Stream<Character> stream = IntStream.range(0, SENTENCE.length()).mapToObj(SENTENCE::charAt);
 		
 		// WordCounterSpliterator를 병렬 스트림에 사용
 		Spliterator<Character> spliterator = new WordCounterSpliterator(SENTENCE);
+		@SuppressWarnings("unused")
 		Stream<Character> parallelStream = StreamSupport.stream(spliterator, true);
 		System.out.println("Found " + countWordsIteratively(SENTENCE) + " words");
 		
