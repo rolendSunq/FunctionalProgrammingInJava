@@ -1,4 +1,6 @@
-package java8.inaction.chapter11.part05;
+package java8.inaction.chapter11.part10;
+
+import java8.inaction.chapter11.part10.Quote;
 
 public class Discount {
 	public enum Code {
@@ -20,19 +22,12 @@ public class Discount {
 	}
 	
 	private static double apply(double price, Code code) {
-		delay();
-		return format(price * (100 - code.percentage) / 100);
+		OperateDelay.randomDelay();
+		return format(price * (100 - code.getPercentage()) / 100);
 	}
 	
 	private static double format(double d) {
 		return Double.valueOf(d);
 	}
 
-	private static void delay() {
-		try {
-			Thread.sleep(1000L);
-		} catch(InterruptedException ie) {
-			throw new RuntimeException(ie);
-		}
-	}
 }
