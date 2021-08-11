@@ -11,14 +11,11 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 import java.util.concurrent.ThreadFactory;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 import org.junit.Test;
 
-import java8.inaction.chapter11.part10.Discount;
 import java8.inaction.chapter11.part08.ExchangeService;
 import java8.inaction.chapter11.part08.ExchangeService.Money;
-import java8.inaction.chapter11.part10.Quote;
 import java8.inaction.chapter11.part10.Shop;
 
 public class FindPriceRefectoringTest {

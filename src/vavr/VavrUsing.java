@@ -1,10 +1,12 @@
 package vavr;
 
+import static javaslang.API.$;
+import static javaslang.API.Case;
+import static javaslang.API.Match;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
-import static javaslang.API.*;
 
 import java.util.Arrays;
 import java.util.Collections;
@@ -27,7 +29,6 @@ import io.vavr.collection.Seq;
 import io.vavr.control.Option;
 import io.vavr.control.Try;
 import io.vavr.control.Validation;
-import javaslang.API.Match;
 
 public class VavrUsing {
 	/*
@@ -51,6 +52,7 @@ public class VavrUsing {
 	}
 	
 	// 확인하지 않으면 간단한 NPE로 인해 중단 될 수 있다.
+	@SuppressWarnings("null")
 	@Test(expected = NullPointerException.class)
 	public void givenValue_whenNullCheckNeeded_thenCorrect2() {
 		Object possibleNullObj = null;
@@ -145,6 +147,7 @@ public class VavrUsing {
 	 */
 	@Test(expected = ArithmeticException.class)
 	public void givenBadCode_whenThrowsException_thenCorrect() {
+		@SuppressWarnings("unused")
 		int i = 1 / 0;
 	}
 	

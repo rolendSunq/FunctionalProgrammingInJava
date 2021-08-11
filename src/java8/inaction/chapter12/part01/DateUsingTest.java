@@ -122,8 +122,11 @@ public class DateUsingTest {
 		LocalDateTime dateTime2 = LocalDateTime.of(2021, Month.FEBRUARY, 6, 10, 0, 0);
 		Instant instant1 = Instant.ofEpochSecond(3);
 		Instant instant2 = Instant.ofEpochSecond(4);
+		@SuppressWarnings("unused")
 		Duration d1 = Duration.between(time1, time2);
+		@SuppressWarnings("unused")
 		Duration d2 = Duration.between(dateTime1, dateTime2);
+		@SuppressWarnings("unused")
 		Duration d3 = Duration.between(instant1, instant2);
 		Period tenDays = Period.between(LocalDate.of(2014, 3, 8), LocalDate.of(2014, 3, 18));
 		System.out.println("Period tenDays: " + tenDays);
@@ -137,6 +140,12 @@ public class DateUsingTest {
 		Period tenDays = Period.ofDays(10);
 		Period threeWeeks = Period.ofWeeks(3);
 		Period twoYearsSixMonthsOneDay = Period.of(2, 6, 1);
+		
+		System.out.println("threeMinutes " + threeMinutes.toMinutes());
+		System.out.println("threeMinutesII " + threeMinutesII.toMinutes());
+		System.out.println("tenDays " + tenDays.getDays());
+		System.out.println("threeWeeks " + threeWeeks.getDays());
+		System.out.println("twoYearsSixMonthsOneDay " + twoYearsSixMonthsOneDay.getDays());
 	}
 	
 	/*
